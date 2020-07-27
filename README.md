@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### Github State
 
-[![wangdong20's github stats](https://github-readme-stats.vercel.app/api?username=wangdong20&show_icons=true&theme=cobalt)](https://github.com/wangdong20/github-readme-stats)
+[![wangdong20's github stats](https://github-readme-stats.vercel.app/api?username=wangdong20&show_icons=true&theme=onedark)](https://github.com/wangdong20/github-readme-stats)
