@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 ### Github State
 
-[![wangdong20's github stats](https://github-readme-stats.vercel.app/api?username=wangdong20&show_icons=true&theme=tokyonight)](https://github.com/wangdong20/github-readme-stats)
+[![wangdong20's github stats](https://github-readme-stats.vercel.app/api?username=wangdong20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/wangdong20/github-readme-stats)
 
 <a href="https://github.com/wangdong20/DWKotlinScriptCompiler">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=wangdong20&repo=DWKotlinScriptCompiler&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/wangdong20/AndroidGradientUI">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=wangdong20&repo=AndroidGradientUI&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
