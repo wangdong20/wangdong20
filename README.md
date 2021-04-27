@@ -30,6 +30,3 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=wangdong20&repo=AndroidGradientUI&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/wangdong20/Html-Sudoku" style="display:block;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=wangdong20&repo=Html-Sudoku&show_icons=true&theme=radical" />
-</a>
